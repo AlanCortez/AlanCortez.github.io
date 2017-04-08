@@ -1,0 +1,13 @@
+Que es Bootstrap 
+    es una libreria que se puede acomodar en cualquier dispositivo
+    no funciona sin internet
+    
+Diseños predefinidos en Bootstrap
+    https://bootswatch.com/cerulean/
+    
+vamos a añadir las librerias para que no dependan del CDN
+    <link rel="stylesheet" href="Bottstrap/bootstrap-min.css">
+    <link rel="stylesheet" href="Bottstrap/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="Bottstrap/bootstrap.min,js">
+ahora para hacer una pagina con loggin es 
+    http://bootsnipp.com/snippets/featured/parallax-login-form

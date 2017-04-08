@@ -1,0 +1,19 @@
+Paso 1 
+    abrir GIT BASH
+Paso 2
+    Navegar al repositorio local
+        ejemplo cd/repos/ AlanCortez.io
+Paso 3 
+    git status
+        Deberia de estar disponible todos los cambios
+Paso 4 
+    Git add --all
+Paso 5 
+    git Commit -m"Algun comentario"
+Paso 6
+    git push
+Que es git
+    es un repositorio
+    
+    
+    

@@ -1,8 +1,10 @@
+/*JavaScript 5
 function mensaje()
             {
                 var textbox=document.getElementById("textbox").value;
                 alert(textbox);
-            }
+            }*/
+//JavaScript 6
 function calc()
             {
                  var val1=Number(document.getElementById("textbox1").value);
