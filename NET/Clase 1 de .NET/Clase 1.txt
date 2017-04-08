@@ -1,0 +1,34 @@
+Descargamos visual Studio
+Version Community
+https://www.visualstudio.com/es/?rr=https%3A%2F%2Fwww.google.com.mx%2F
+Paso 1 y Paso 2
+
+Instalar Git
+https://git-scm.com/downloads
+Para instalar git se le da que si a todo jaja :D
+
+Instalar Brackets.io
+http://brackets.io/
+
+Curso 
+http://haza.citalin.com/progra-web/
+
+Descargar Xampp
+https://www.apachefriends.org/es/index.html
+
+ver extensiones >menu vista> opciones> ver> Ocultar las extensiones de archivo para tipos de archivo conocidos
+
+abrir brackets 
+abrir visual
+
+c/xammp/htdox guardar los archivos se publicaran 
+si pongo mi ip/nombredelarchivo
+
+apache cambiar puertos de ejecucion  80 es el puerto default, (skype, email) para cambiarlo 
+es en COnfig-> service and PortSettings ->8080
+
+descargar libros gratuitos de springer 
+bajamos CSS and HTML Web Design
+solo podemos bajar con el inter 
+Leer los primeros dos capitulos de ese libro
+
